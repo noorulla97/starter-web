@@ -17,3 +17,4 @@
 
     HTML5, CSS3, Angular		
     jQuery, Modernizr, AJAX
+    Machine, AWS, Google Cloud
