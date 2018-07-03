@@ -1,5 +1,9 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
+    noorulla
+    noorulla96@gmail.com
+    Devops Engineer:
+
 
 # TEAM
      Name=noorulla
