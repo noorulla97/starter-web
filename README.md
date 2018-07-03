@@ -10,6 +10,7 @@
 ## GIT and GITHUB training
 
 This is the famous and one of the best Training Course of Devops
+Adding GIT Rebase Lectures in GIT Advanced Part
 
 ## GIT Comparisons
 
