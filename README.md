@@ -11,7 +11,7 @@
 
 This is the famous and one of the best Training Course of Devops
 Adding GIT Rebase Lectures in GIT Advanced Part
-
+We have done so much work together
 ## GIT Comparisons
 
    Adding Git Comparisons Lecture
