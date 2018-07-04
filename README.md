@@ -4,7 +4,7 @@
 
 ## Introduction
    
-   A lot of Lectures are already submitted
+   A lot of Lectures are already submitted And a lot lectures are still coming on.
 
 
 ## GIT and GITHUB training
