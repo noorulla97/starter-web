@@ -2,6 +2,7 @@
 
 Doing Some changes in Local
 Hi, Iam modifying the file before rebase
+hi, going to insert conflicts in my feature branch
 # The humans responsible & technology colophon
     noorulla
     noorulla96@gmail.com
