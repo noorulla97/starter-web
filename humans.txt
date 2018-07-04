@@ -6,7 +6,8 @@ Hi, Iam modifying the file before rebase
 # The humans responsible & technology colophon
     noorulla
     noorulla96@gmail.com
-    Devops Engineer:
+    Devops Engineer Level III
+    IT Organization
     
 
 # TEAM
